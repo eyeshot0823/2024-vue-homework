@@ -1,0 +1,1 @@
+import{_ as s,c as t,o as c,a as e}from"./index-B3f-R70o.js";const o={},n={class:"text-center"},_=e("h1",{class:"mb-5"},[e("strong",null,"第三週作業")],-1),a=[_];function r(d,i){return c(),t("div",n,a)}const f=s(o,[["render",r]]);export{f as default};

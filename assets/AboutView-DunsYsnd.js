@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s,a as o}from"./index-B3f-R70o.js";const c={},a={class:"text-center"},n=o("h1",null,"This is an about page",-1),_=[n];function r(i,d){return s(),t("div",a,_)}const f=e(c,[["render",r]]);export{f as default};
